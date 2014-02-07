@@ -1,4 +1,7 @@
-
+// 'trait' is similar with Interface in java.
+// intead of 'implements' keyword, uses 'extends' keyword.
+// and trait can include implemented source code
+// need to use ploral, put 'with'.  
 trait Buffer {
 	type T
 	val element: T

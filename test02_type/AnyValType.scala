@@ -1,6 +1,6 @@
 
 
-object main extends App {
+object AnyValType extends App {
 
 	//var is mutable, otherwise val is immutable
 	var db : Double = 3.14
